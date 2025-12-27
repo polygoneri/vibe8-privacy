@@ -1,6 +1,6 @@
 Vibe8 Support
 
-If you need help with the Vibe8 app, you’re in the right place. Below are answers to common questions and ways to get support.
+If you need help with the Vibe8 app or keyboard, you’re in the right place. Below are answers to common questions and ways to get support.
 
 Contact Support
 
@@ -11,25 +11,44 @@ office@vibe8.ai
 We usually reply within 1–2 business days.
 
 FAQ
+
 How does Vibe8 work?
 
-You choose a few recent chat screenshots and Vibe8 generates smart message suggestions tailored to your conversation.
+Vibe8 helps you generate reply suggestions using a smart keyboard.
+You take a screenshot of a conversation, tap Generate, and choose a suggested reply.
+
+Does Vibe8 include a keyboard?
+
+Yes. Vibe8 includes a custom keyboard extension.
+The keyboard generates suggestions only after you explicitly tap Generate.
 
 Does Vibe8 access my photo library?
 
-No. Vibe8 only sees the screenshots you manually select. It never scans your library without permission.
+Vibe8 only accesses screenshots or images that you explicitly select.
+It does not scan your photo library automatically.
+
+The keyboard analyzes only the most recent screenshot after user action.
 
 Does Vibe8 store my images or data?
 
-No. Your images are processed only to generate suggestions and are not stored.
+No. Images are processed only to generate suggestions and are not stored permanently.
 
-The app doesn’t detect my screenshots. What should I do?
+Why do I need to enable Full Access for the keyboard?
 
-Make sure the screenshots clearly show chat bubbles and text. Blurry or cropped images may affect detection.
+Full Access is required for the keyboard to communicate with the Vibe8 service and generate AI suggestions.
+If Full Access is disabled, the keyboard will show setup instructions instead.
+
+The app or keyboard doesn’t detect my screenshots. What should I do?
+
+Make sure the screenshots clearly show chat bubbles and text.
+Blurry, cropped, or incomplete images may affect detection.
 
 I can’t generate suggestions.
 
-Upload at least one screenshot or selected photo, depending on the mode you’re using.
+Make sure:
+• At least one screenshot is selected
+• The Vibe8 keyboard is enabled
+• Full Access is enabled for the keyboard
 
 Privacy Policy
 
