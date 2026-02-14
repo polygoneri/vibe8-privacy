@@ -1,1 +1,73 @@
-aa
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vibe8 – Terms of Use</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px auto;
+            max-width: 800px;
+            padding: 0 20px;
+            color: #111;
+        }
+        h1, h2 {
+            margin-top: 30px;
+        }
+        h1 {
+            font-size: 28px;
+        }
+        h2 {
+            font-size: 20px;
+        }
+        p {
+            margin: 12px 0;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Terms of Use</h1>
+
+<p>By using Vibe8, you agree to use the app responsibly and follow these Terms of Use. If you do not agree, please do not use the app.</p>
+
+<p>Vibe8 helps you generate messaging suggestions and opening lines based on content you choose to provide, such as screenshots and images. The suggestions are meant to be helpful, but you are responsible for what you send and how you use the app.</p>
+
+<h2>User Responsibility</h2>
+
+<p>You are solely responsible for the messages you send and the outcomes of your interactions. Vibe8 provides suggestions, not guarantees.</p>
+
+<p>Do not rely on suggestions for critical decisions. Use your own judgment and consider the context of your relationship and communication.</p>
+
+<h2>Content You Provide</h2>
+
+<p>You may upload screenshots or images to receive suggestions. You confirm you have the right to share the content you upload and that doing so does not violate any laws or third-party rights.</p>
+
+<p>Do not upload illegal content, sensitive personal information you do not have permission to share, or content that violates the rights of others.</p>
+
+<h2>No Data Storage by Default</h2>
+
+<p>We aim to minimize data retention. Images are used to generate suggestions and are not stored after processing. Some minimal metadata (such as basic diagnostics) may be collected to keep the service reliable and secure.</p>
+
+<h2>Prohibited Use</h2>
+
+<p>You agree not to use Vibe8 to harass, threaten, exploit, or harm others. You also agree not to attempt to reverse engineer, abuse, or disrupt the service.</p>
+
+<p>We may suspend or terminate access if we believe the app is being used in a way that violates these terms or creates risk for users or others.</p>
+
+<h2>Disclaimers</h2>
+
+<p>Vibe8 is provided "as is" and "as available." We do our best to provide high-quality suggestions, but we do not guarantee accuracy, outcomes, or uninterrupted availability.</p>
+
+<p>To the maximum extent permitted by law, Vibe8 is not liable for any damages or losses arising from your use of the app or reliance on suggestions.</p>
+
+<h2>Changes to These Terms</h2>
+
+<p>We may update these Terms of Use from time to time. Continued use of Vibe8 means you accept the updated terms.</p>
+
+<p>Last updated: February 2026</p>
+
+</body>
+</html>
